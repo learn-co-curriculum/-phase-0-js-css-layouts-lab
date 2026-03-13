@@ -23,3 +23,7 @@ img {
     height: auto;
     border-radius: 8px;
 }
+
+h {
+    margin: 0.5em 0;
+}
